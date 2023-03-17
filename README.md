@@ -1,7 +1,7 @@
 # AutoSampler-publication-repository
 Code from the Publication: Mucciarone, David A., Hans B. DeJong, Robert B. Dunbar, Yui Takeshita, Rebecca Albright, and Keaton Mertz. "Autonomous submersible multiport water sampler." HardwareX 9 (2021): e00197.(https://www.sciencedirect.com/science/article/pii/S2468067221000262)
 
-We studied the impact of climate change on coral reefs in the Chagos Archipelago as part of the Bertarelli Program in Marine Science. To monitor coral reef health, we needed to collect water samples above the reef every two hours for days at a time. Rather than stay up all night on rafts, we obtained a grant to design and build a submersible autonomous water sampler for a fraction of the cost of commercial samplers. We published our design and code in HardwareX. 
+We studied the impacts of climate change on coral reefs in the Chagos Archipelago as part of the Bertarelli Program in Marine Science. To monitor coral reef health, we needed to collect water samples above the reef every two hours for days at a time. Rather than stay up all night on rafts, we obtained a grant to design and build a submersible autonomous water sampler for a fraction of the cost of commercial samplers. We published our design and code in HardwareX. 
 
 ## Figures
 
