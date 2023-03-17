@@ -1,5 +1,5 @@
 # AutoSampler-publication-repository
-Code for the publication "Code from the Publication: Mucciarone, David A., Hans B. DeJong, Robert B. Dunbar, Yui Takeshita, Rebecca Albright, and Keaton Mertz. "Autonomous submersible multiport water sampler." HardwareX 9 (2021): e00197.(https://www.sciencedirect.com/science/article/pii/S2468067221000262)
+Code from the Publication: Mucciarone, David A., Hans B. DeJong, Robert B. Dunbar, Yui Takeshita, Rebecca Albright, and Keaton Mertz. "Autonomous submersible multiport water sampler." HardwareX 9 (2021): e00197.(https://www.sciencedirect.com/science/article/pii/S2468067221000262)
 
 The code was written by H. DeJong and D. Mucciarone. 
 
