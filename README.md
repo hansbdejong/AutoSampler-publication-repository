@@ -1,12 +1,17 @@
 # AutoSampler-publication-repository
 Code for the publication "Code from the Publication: Mucciarone, David A., Hans B. DeJong, Robert B. Dunbar, Yui Takeshita, Rebecca Albright, and Keaton Mertz. "Autonomous submersible multiport water sampler." HardwareX 9 (2021): e00197.(https://www.sciencedirect.com/science/article/pii/S2468067221000262)
 
-<img src="https://github.com/hansbdejong/AutoSampler-publication-repository/blob/main/readMeFigures/sampler1.jpg" width=50% height=50%>
-<img src="https://github.com/hansbdejong/AutoSampler-publication-repository/blob/main/readMeFigures/sampler2.jpg" width=50% height=50%>
-<img src="https://github.com/hansbdejong/AutoSampler-publication-repository/blob/main/readMeFigures/sampler3.jpg" width=50% height=50%>
+<p align="center">
+<img src="https://github.com/hansbdejong/AutoSampler-publication-repository/blob/main/readMeFigures/sampler3.jpg" width=70% height=70%>
+</p>
 
+<p align="center">
+<img align="center" src="https://github.com/hansbdejong/AutoSampler-publication-repository/blob/main/readMeFigures/sampler1.jpg" width=70% height=70%>
+</p>
 
-
+<p align="center">
+<img align="center" src="https://github.com/hansbdejong/AutoSampler-publication-repository/blob/main/readMeFigures/sampler2.jpg" width=70% height=70%>
+</p>
 
 
 The code was written by H. DeJong and D. Mucciarone. There are 4 Arduino programs that are needed to run the AutoSampler.
