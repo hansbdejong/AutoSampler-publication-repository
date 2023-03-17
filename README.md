@@ -1,6 +1,10 @@
 # AutoSampler-publication-repository
 Code for the publication "Code from the Publication: Mucciarone, David A., Hans B. DeJong, Robert B. Dunbar, Yui Takeshita, Rebecca Albright, and Keaton Mertz. "Autonomous submersible multiport water sampler." HardwareX 9 (2021): e00197.(https://www.sciencedirect.com/science/article/pii/S2468067221000262)
 
+![](readMeFigures/sampler1.jpg)
+![](readMeFigures/sampler2.jpg)
+![](readMeFigures/sampler3.jpg)
+
 The code was written by H. DeJong and D. Mucciarone. There are 4 Arduino programs that are needed to run the AutoSampler.
 
 1. Program "time_set_manually" is used to set the correct time on the real-time clock. 
